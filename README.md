@@ -1,14 +1,3 @@
-### Here is What I'm Working On! 
+As a full-stack developer, I am passionate about creating innovative and user-friendly solutions that make a real difference in people's lives. Here you will find my projects, ranging from web development to mobile applications, showcasing my skills and experience.
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...My side project
-- 🌱 I’m currently learning ...Node.js
-- 👯 I’m looking to collaborate on ...Node.js and MongoDB
-- 🤔 I’m looking for help with ...MongoDB and System Design
-- 💬 Ask me about ...Anything
-- 📫 How to reach me: ...mailbox.ekansh@gmail.com
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...It Sucks
-
+Thank you for visiting, and let's build something amazing together!
