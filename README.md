@@ -1,3 +1,2 @@
-As a full-stack developer, I am passionate about creating innovative and user-friendly solutions that make a real difference in people's lives.
+I am a full-stack developer with a passion for exploring unknown territories and pushing boundaries. As a self-proclaimed dweeb and dork, I thrive on solving complex problems and finding creative solutions.
 
-Thank you for visiting, and let's build something amazing together!
