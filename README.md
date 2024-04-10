@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a full-stack developer with a passion for exploring unknown territories and pushing boundaries. As a self-proclaimed dweeb and dork, I thrive on solving complex problems and finding creative solutions.
+I’m a programmer with a passion for web security. Most of my spare time goes towards putting something together or trying tomake it come apart.
 
 
 # 💻 Tech Stack:
