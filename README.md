@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a programmer with a passion for web security. Most of my spare time goes towards putting something together or trying tomake it come apart.
+I’m a programmer and designer with a passion for web security. Most of my spare time goes towards putting something together or trying tomake it come apart.
 
 
 
